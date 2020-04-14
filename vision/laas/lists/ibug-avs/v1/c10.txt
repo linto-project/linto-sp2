@@ -1,0 +1,10 @@
+Spkr Fnt |
+Spkr LR  \
+Spkr FR  ->
+Spkr FL  <-
+Spkr LR  /
+Siln Fnt |
+Siln LR  \
+Siln FR  ->
+Siln FL  <-
+Siln LR  /
