@@ -1,0 +1,24 @@
+Metadata-Version: 1.1
+Name: speechTools
+Version: 0.1
+Summary: Automatic speech analysis in meeting context
+Home-page: UNKNOWN
+Author: Yassir Bouiry
+Author-email: UNKNOWN
+License: IRIT/SAMoVA
+Description: 
+        Installation:
+        cd /.../stPack 
+        python3 setup.py install
+        
+        Extract and save features:
+        python3 saveFeatures.py
+        Run model evaluation:
+        python3 evalModels.py
+        
+        
+Platform: UNKNOWN
+Classifier: Prosody
+Classifier: natural speech
+Classifier: voice pitch f0
+Classifier: syllable extraction
