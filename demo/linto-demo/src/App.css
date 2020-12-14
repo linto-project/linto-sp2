@@ -1,0 +1,35 @@
+/* Selectors css */
+/* Flexbox (un paradigme css) */
+/* CSS-Grid : un autre paradigme intéressant */
+
+.App {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid {
+  width: 100%;
+  display: flex;
+  max-width: 968px;
+  flex-wrap: wrap;
+}
+
+.overlay {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+
+  z-index: 1;
+  background: black;
+}
+
+.grid:not(:last-child) {
+  margin-bottom: 32px;
+}
+
+.grid > * {
+  margin: 4px;
+}

@@ -1,0 +1,17 @@
+.button {
+  display: flex;
+  /* Centrer horizontalement */
+  justify-content: left;
+  /* Centrer verticalement */
+  align-items: center;
+  padding: 2px;
+  border-radius: 8px;
+  font-size: 18px;
+  cursor: pointer;
+  border: 1px solid black;
+  outline: none;
+}
+
+.active {
+  border: 3px solid black;
+}

@@ -1,0 +1,8 @@
+.rectangle {
+  position: absolute;
+  display: inline-block;
+  border: 2px solid black;
+
+  background:none;
+  z-index: 2;
+}
