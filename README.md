@@ -1,5 +1,5 @@
-## sp2
+# sp2
 
-# React demo:
+## Interactive demo:
 
 Demo based on react js
